@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Cerebrotes",
+    "autor": "Garcia Gorro",
+    "precio": 230,
+    "anio": 2024
+  },
+  {
+    "titulo": "Fechas que hicieron historia",
+    "autor": "Boucheron,Patrick",
+    "precio": 230,
+    "anio": 2024
+  },
+  {
+    "titulo": "Viajes 10",
+    "autor": "Mitchell,Andy",
+    "precio": 240,
+    "anio": 2024
+  },
+  {
+    "titulo": "Theodoros",
+    "autor": "Cartarescu,Mircea",
+    "precio": 280,
+    "anio": 2024
+  },
+  {
+    "titulo": "Ikigai",
+    "autor": "Garcia,Hector",
+    "precio": 120,
+    "anio": 2024
+  },
+  {
+    "titulo": "La vida de las marionetas",
+    "autor": "Tj Klune",
+    "precio": 190,
+    "anio": 2023
+  }
+]
